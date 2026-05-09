@@ -3,6 +3,6 @@ import Spline from "@splinetool/react-spline";
 
 export default function Home() {
   return (
-    <Spline scene="/scene.splinecode" />
+    <Spline scene="/gpt-board/scene.splinecode" />
   );
 }
